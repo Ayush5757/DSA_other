@@ -81,5 +81,5 @@ console.log(array.getIndexOf("RAja"));
 console.log(array.get(2));
 console.log(array.delete(2));
 console.log(array);
-// console.log(array.shift());
+console.log(array.shift());
 console.log(array);
