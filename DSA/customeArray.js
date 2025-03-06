@@ -77,7 +77,7 @@ array.push("asha");
 array.push("Raja");
 array.push("komal");
 array.push("rahul");
-console.log(array.getIndexOf("RAja"));
+console.log(array.getIndexOf("raja"));
 console.log(array.get(2));
 console.log(array.delete(2));
 console.log(array);
